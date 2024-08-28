@@ -1,8 +1,43 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-Currently, two official plugins are available:
+### Prerequisites
+- Ensure you have **Node.js** installed. You can download it from [nodejs.org](https://nodejs.org/).
+- Install **npm** (Node Package Manager), which comes with Node.js.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/MUHAMMADZEE112233/DND-Grid.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd DND-Grid
+   ```
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+### Running the Project
+- **Start the development server**:
+  ```bash
+  npm run dev
+  ```
+
+- **Build the project for production**:
+  ```bash
+  npm run build
+  ```
+
+### Additional Scripts
+- **Run tests**:
+  ```bash
+  npm test
+  ```
+
+- **Lint the code**:
+  ```bash
+  npm run lint
+  ```
